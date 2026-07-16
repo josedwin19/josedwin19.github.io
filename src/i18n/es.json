@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "about": "Sobre mí",
+    "interests": "Intereses",
+    "projects": "Proyectos",
+    "blog": "Blog",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "name": "Edwin N. Quesnay",
+    "tagline": "Biólogo estructural (cryo-EM) utilizando herramientas de IA para investigación científica",
+    "description": "Construyendo un portafolio en la intersección de la biología estructural y la inteligencia artificial. Explorando cómo la IA puede acelerar el descubrimiento científico en criomicroscopía y más allá.",
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "email": "Correo"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "p1": "Soy biólogo estructural con doctorado en BioCiencias, especializado en criomicroscopía electrónica (cryo-EM) y determinación de estructuras de proteínas de membrana.",
+    "p2": "Mi investigación se centra en comprender la arquitectura de las proteínas a nivel molecular. Actualmente, estoy explorando cómo las herramientas de inteligencia artificial pueden mejorar y acelerar la investigación científica, desde la automatización de la recolección de datos hasta el análisis de estructuras.",
+    "p3": "Construyo este portafolio para documentar mi camino hacia la biología estructural asistida por IA, compartiendo herramientas, tutoriales e ideas en el proceso."
+  },
+  "interests": {
+    "title": "Áreas de Interés",
+    "subtitle": "Campos donde la biología estructural se encuentra con la IA",
+    "items": {
+      "cryoem": {
+        "title": "Automatización de Datos Cryo-EM",
+        "description": "Automatización de extracción de metadata y pipelines de recolección de datos para sesiones de cryo-EM."
+      },
+      "ai_structural": {
+        "title": "IA para Biología Estructural",
+        "description": "Explorando AlphaFold, análisis de mapas de densidad y predicción de estructuras con ML."
+      },
+      "ml_pipelines": {
+        "title": "Pipelines de ML para Datos Experimentales",
+        "description": "Construyendo pipelines reproducibles para procesar y analizar datasets experimentales."
+      },
+      "visualization": {
+        "title": "Visualización de Datos Científicos",
+        "description": "Creando representaciones visuales claras de datos estructurales complejos."
+      }
+    }
+  },
+  "projects": {
+    "title": "Proyectos",
+    "subtitle": "Herramientas y repositorios de código abierto",
+    "view": "Ver en GitHub",
+    "items": {
+      "cem": {
+        "title": "CEM Data Collection",
+        "description": "Utilidad en Python para analizar directorios de sesiones EPU de cryo-EM (Thermo Fisher) y generar reportes de adquisición estructurados."
+      },
+      "toolbox": {
+        "title": "Python Scripts Toolbox",
+        "description": "Caja de herramientas Python de propósito general para cómputo científico — procesamiento de datos, análisis y automatización de lab."
+      },
+      "awesome": {
+        "title": "Awesome AI Research",
+        "description": "Lista curada de herramientas y recursos de IA para investigación científica, con foco en biología estructural."
+      }
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Notas sobre biología estructural, IA y todo lo intermedio",
+    "readMore": "Leer más",
+    "back": "← Volver al blog",
+    "noPosts": "Aún no hay posts. ¡Vuelve pronto!"
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "No dudes en contactarme por cualquiera de estos canales",
+    "email": "Correo",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "footer": {
+    "tagline": "Biólogo estructural | cryo-EM ⚡ Explorando herramientas de IA para investigación científica",
+    "rights": "Todos los derechos reservados."
+  }
+}

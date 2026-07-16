@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "about": "About",
+    "interests": "Interests",
+    "projects": "Projects",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "hero": {
+    "name": "Edwin N. Quesnay",
+    "tagline": "Structural Biologist (cryo-EM) using AI tools for scientific research",
+    "description": "Building a portfolio at the intersection of structural biology and artificial intelligence. Exploring how AI can accelerate scientific discovery in cryo-EM and beyond.",
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "email": "Email"
+  },
+  "about": {
+    "title": "About Me",
+    "p1": "I am a structural biologist with a Ph.D. in Biosciences, specializing in cryo-electron microscopy (cryo-EM) and membrane protein structure determination.",
+    "p2": "My research focuses on understanding protein architecture at the molecular level. Currently, I am exploring how artificial intelligence tools can enhance and accelerate scientific research, from data collection automation to structure analysis.",
+    "p3": "I am building this portfolio to document my journey into AI-assisted structural biology, sharing tools, tutorials, and insights along the way."
+  },
+  "interests": {
+    "title": "Areas of Interest",
+    "subtitle": "Fields where structural biology meets AI",
+    "items": {
+      "cryoem": {
+        "title": "Cryo-EM Data Automation",
+        "description": "Automating metadata extraction and data collection pipelines for cryo-EM sessions."
+      },
+      "ai_structural": {
+        "title": "AI for Structural Biology",
+        "description": "Exploring AlphaFold, density map analysis, and ML-based structure prediction."
+      },
+      "ml_pipelines": {
+        "title": "ML Pipelines for Experimental Data",
+        "description": "Building reproducible pipelines to process and analyze experimental datasets."
+      },
+      "visualization": {
+        "title": "Scientific Data Visualization",
+        "description": "Creating clear visual representations of complex structural data."
+      }
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Open-source tools and repositories",
+    "view": "View on GitHub",
+    "items": {
+      "cem": {
+        "title": "CEM Data Collection",
+        "description": "Python utility to parse Thermo Fisher EPU cryo-EM session directories and generate structured acquisition reports."
+      },
+      "toolbox": {
+        "title": "Python Scripts Toolbox",
+        "description": "General-purpose Python toolbox for scientific computing — data processing, analysis, and lab automation."
+      },
+      "awesome": {
+        "title": "Awesome AI Research",
+        "description": "Curated list of AI tools and resources for scientific research, with focus on structural biology."
+      }
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Notes on structural biology, AI, and everything in between",
+    "readMore": "Read more",
+    "back": "← Back to blog",
+    "noPosts": "No posts yet. Check back soon!"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Feel free to reach out via any of these channels",
+    "email": "Email",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "footer": {
+    "tagline": "Structural Biologist | cryo-EM ⚡ Exploring AI tools for scientific research",
+    "rights": "All rights reserved."
+  }
+}
